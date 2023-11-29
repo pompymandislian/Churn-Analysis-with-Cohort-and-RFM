@@ -11,15 +11,13 @@ Cohort analysis is a fundamental part of our approach. We'll assess the retentio
 
 **Retention Rate** = _(Sum of Initial Customers / Sum of Customers Still Active in the Next Month) × 100_
 
-This analysis will help us understand how well we are retaining customers over time and pinpoint areas for improvement.
-
-Cohort Analysis
  <p>
 <img align="center" src="cohort.png" width="750" height="500" />
 </p>
 
-We observed the highest retention rate of 25% from customers in index 6, but it decreases over the next 6 months, reaching a minimum in the 7th month before dropping significantly in the next month.
-The Average Monthly Retention Rate for All Customers is 12.16%, while the Average Monthly Churn Rate for All Customers is 87.84%.
+This analysis will help us understand how well we are retaining customers over time and pinpoint areas for improvement.
+- We observed the highest retention rate of 25% from customers in index 6, but it decreases over the next 6 months, reaching a minimum in the 7th month before dropping significantly in the next month.
+- The Average Monthly Retention Rate for All Customers is 12.16%, while the Average Monthly Churn Rate for All Customers is 87.84%.
 
 ## Churn Analysis with RFM
 For the RFM churn analysis, we define a churned customer as one who has not made any transactions during weeks 31 to 35, within a time window of 5 weeks. The results show that we have 8,698 churned customers and 4,066 unchurned customers within this defined period.
