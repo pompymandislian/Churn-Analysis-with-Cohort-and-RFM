@@ -6,7 +6,7 @@ In response to a significant decline in product revenue, our e-commerce company 
 ## Objective
 The primary objective of this project is to decrease the churn rate to 20% within the next two months. By delving into customer behavior patterns and leveraging cohort analysis, we aim to identify factors contributing to churn and implement targeted strategies for retention.
 
-## Cohort Analysis
+## Churn Analysis with Cohort 
 Cohort analysis is a fundamental part of our approach. We'll assess the retention rate by examining cohorts of customers each month. The corrected retention rate formula is:
 
 **Retention Rate** = _(Sum of Initial Customers / Sum of Customers Still Active in the Next Month) × 100_
