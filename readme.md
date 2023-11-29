@@ -15,7 +15,7 @@ This analysis will help us understand how well we are retaining customers over t
 
 Cohort Analysis
  <p>
-<img align="center" src="image/cohort.png" width="750" height="500" />
+<img align="center" src="cohort.png" width="750" height="500" />
 </p>
 
 We observed the highest retention rate of 25% from customers in index 6, but it decreases over the next 6 months, reaching a minimum in the 7th month before dropping significantly in the next month.
